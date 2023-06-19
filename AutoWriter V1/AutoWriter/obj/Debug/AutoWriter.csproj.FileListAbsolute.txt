@@ -1,0 +1,58 @@
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\bin\Debug\AutoWriter.exe.config
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\bin\Debug\AutoWriter.exe
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\bin\Debug\AutoWriter.pdb
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\bin\Debug\Microsoft.Speech.dll
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\obj\Debug\AutoWriter.csproj.AssemblyReference.cache
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\obj\Debug\AutoWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\obj\Debug\AutoWriter.Form1.resources
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\obj\Debug\AutoWriter.Properties.Resources.resources
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\obj\Debug\AutoWriter.csproj.GenerateResource.cache
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\obj\Debug\AutoWriter.csproj.CoreCompileInputs.cache
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\obj\Debug\AutoWriter.csproj.CopyComplete
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\obj\Debug\AutoWriter.exe
+C:\Users\Утка\Desktop\AutoWriter\AutoWriter\obj\Debug\AutoWriter.pdb
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.exe.config
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.exe
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.pdb
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\bin\Debug\Microsoft.Speech.dll
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.AssemblyReference.cache
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.Form1.resources
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.Form2.resources
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.Properties.Resources.resources
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.GenerateResource.cache
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.CoreCompileInputs.cache
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.CopyComplete
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.exe
+C:\Users\Утка\Desktop\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.pdb
+E:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.exe.config
+E:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.exe.manifest
+E:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.application
+E:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.exe
+E:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.pdb
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csprojAssemblyReference.cache
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.Form1.resources
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.Form2.resources
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.Properties.Resources.resources
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.GenerateResource.cache
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.exe.manifest
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.application
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.CopyComplete
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.exe
+E:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.pdb
+D:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.exe.config
+D:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.exe.manifest
+D:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.application
+D:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.exe
+D:\AutoWriter\AutoWriter V1\AutoWriter\bin\Debug\AutoWriter.pdb
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.AssemblyReference.cache
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.SuggestedBindingRedirects.cache
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.Form1.resources
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.Form2.resources
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.Properties.Resources.resources
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.GenerateResource.cache
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.csproj.CoreCompileInputs.cache
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.exe.manifest
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.application
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.exe
+D:\AutoWriter\AutoWriter V1\AutoWriter\obj\Debug\AutoWriter.pdb
